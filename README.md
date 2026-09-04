@@ -609,36 +609,13 @@ Role prompting is effective when the user wants a domain-specific response. Assi
 Structured prompting is the most comprehensive technique in this experiment. It provides detailed instructions and a specific output structure, resulting in a clear, complete, and project-oriented solution.
 
 ---
+### OUTPUT
 
-# OUTPUT
+Different prompting techniques were successfully applied to the AI-based student performance prediction system. Each technique produced useful results, with structured prompting giving the most clear and organized output.
 
-The experiment successfully demonstrated the use of different prompting techniques for solving an engineering problem based on an **AI-Based Student Performance Prediction System**.
+### CONCLUSION
 
-The **Zero-Shot Prompting** technique generated a general machine learning solution without requiring examples. It was simple and useful for obtaining basic information about the project.
+Prompting techniques improve the quality, clarity, and relevance of AI-generated solutions. Among the techniques used, **structured prompting was the most effective** for solving the selected engineering problem.
 
-The **Few-Shot Prompting** technique used sample student data and expected performance categories. The examples helped the AI understand the required prediction pattern and generate a more consistent response.
-
-The **Chain-of-Thought Prompting** technique divided the engineering problem into multiple logical stages, including problem identification, data collection, preprocessing, feature selection, model selection, training, testing, evaluation, and deployment.
-
-The **Role Prompting** technique assigned the role of a senior Machine Learning Engineer. This resulted in a more professional and technically focused response.
-
-The **Structured Prompting** technique specified the role, project, problem, input features, requirements, constraints, and expected output format. It generated the most detailed, organized, and project-specific response.
-
-The comparison shows that different prompting techniques are useful for different engineering requirements. Simple prompts are suitable for general tasks, while detailed and structured prompts are more suitable for complex engineering projects.
-
----
-
-# CONCLUSION
-
-The experiment was successfully conducted to compare different prompting techniques for solving a real-world engineering problem. An **AI-Based Student Performance Prediction System** was selected as the project scenario because it involves data analysis, machine learning, prediction, and practical engineering decision-making.
-
-Five prompting techniques were applied: **Zero-Shot Prompting, Few-Shot Prompting, Chain-of-Thought Prompting, Role Prompting, and Structured Prompting**.
-
-Zero-shot prompting provided a quick and general solution. Few-shot prompting improved consistency by providing examples. Chain-of-thought prompting was effective for breaking the problem into multiple logical stages. Role prompting provided a professional and domain-specific perspective.
-
-Structured prompting produced the most complete and organized solution because it clearly defined the role, project context, problem, input features, requirements, constraints, and output format.
-
-From the comparison, it can be concluded that **no single prompting technique is suitable for every situation**. The technique should be selected according to the complexity and requirements of the engineering problem. For simple questions, zero-shot prompting may be sufficient. For pattern-based tasks, few-shot prompting can be useful. For complex problems, chain-of-thought prompting can provide a systematic approach. Role prompting is useful for domain-specific tasks, while structured prompting is highly suitable for complete engineering project development.
-
-Therefore, **effective prompt engineering can significantly improve the clarity, quality, relevance, and usefulness of AI-generated solutions in real-world engineering applications**.
+antly improve the clarity, quality, relevance, and usefulness of AI-generated solutions in real-world engineering applications**.
 
